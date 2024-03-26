@@ -601,8 +601,32 @@
       "Root"
     ],
     [
-      "cff54a7e-41b5-4877-9f1f-54cff01ee5de",
-      "More 7-Segment LED Displays"
+      "ed6b1e35-5147-4efc-b415-ad1fa40d2595",
+      "Brightness Dial"
+    ],
+    [
+      "4e55a452-12f7-42d4-a20a-248bb0283438",
+      "Status LEDs"
+    ],
+    [
+      "4dda0760-e028-41e6-8bb4-4ea7d454afd7",
+      "Battery LEDs"
+    ],
+    [
+      "0028eded-db04-4ec8-8943-95ff11960fa1",
+      "7-Segment Display 1"
+    ],
+    [
+      "2fb7785c-e042-41db-91d9-3426bb7a61cc",
+      "7-Segment Display 2"
+    ],
+    [
+      "8d3b2d6f-67ea-4b9a-8d6b-9a5f709e4906",
+      "7-Segment Display 3"
+    ],
+    [
+      "2be86baa-6527-4136-835b-87efea8e1045",
+      "7-Segment Display 4"
     ]
   ],
   "text_variables": {

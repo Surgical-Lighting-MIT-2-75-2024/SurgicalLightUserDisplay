@@ -910,9 +910,15 @@
 		(at 39.37 52.07)
 		(uuid "175d6888-7adf-4f23-8995-e0a1e5581311")
 	)
-	(no_connect
-		(at 162.56 110.49)
-		(uuid "5f19dd11-c7a1-45ba-bcaa-0d0caaf4ef48")
+	(wire
+		(pts
+			(xy 162.56 102.87) (xy 132.08 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "039281c9-a990-4634-8625-b46e0a3b0b1b")
 	)
 	(wire
 		(pts
@@ -946,26 +952,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 95.25) (xy 162.56 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "209f8cc3-f1af-41b5-be68-08df5541d5ed")
-	)
-	(wire
-		(pts
-			(xy 160.02 95.25) (xy 162.56 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20b1f6d1-021b-4ba3-9b2c-30d9231a450d")
-	)
-	(wire
-		(pts
 			(xy 67.31 95.25) (xy 90.17 95.25)
 		)
 		(stroke
@@ -996,6 +982,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 80.01) (xy 134.62 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36a5dd75-4ab8-41c8-86d2-42060e1945e4")
+	)
+	(wire
+		(pts
 			(xy 38.1 39.37) (xy 45.72 39.37)
 		)
 		(stroke
@@ -1003,16 +999,6 @@
 			(type default)
 		)
 		(uuid "38bbda9f-69e9-4d7d-a59d-a405e0a4789e")
-	)
-	(wire
-		(pts
-			(xy 162.56 102.87) (xy 132.08 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a767794-2092-4380-b71d-e14870e3015c")
 	)
 	(wire
 		(pts
@@ -1053,16 +1039,6 @@
 			(type default)
 		)
 		(uuid "473a88ea-fcc6-4406-b061-1c6ed4685030")
-	)
-	(wire
-		(pts
-			(xy 162.56 87.63) (xy 132.08 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49077a49-72ee-4d9c-a1bf-1663168e5b9b")
 	)
 	(wire
 		(pts
@@ -1116,16 +1092,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 80.01) (xy 134.62 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "670fa477-54f4-4dc4-8485-0b4b3d248309")
-	)
-	(wire
-		(pts
 			(xy 21.59 95.25) (xy 21.59 96.52)
 		)
 		(stroke
@@ -1133,6 +1099,16 @@
 			(type default)
 		)
 		(uuid "68440934-83b5-4a87-93c3-f5a9a6af6fa9")
+	)
+	(wire
+		(pts
+			(xy 132.08 95.25) (xy 134.62 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fbda059-4ec2-477a-88d1-60c96ca03ac4")
 	)
 	(wire
 		(pts
@@ -1156,13 +1132,13 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 80.01) (xy 162.56 87.63)
+			(xy 132.08 110.49) (xy 134.62 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "817343a5-02db-4146-b9d0-f8d0540e9593")
+		(uuid "7f673774-ce09-4d70-9e7f-208ce301380d")
 	)
 	(wire
 		(pts
@@ -1173,16 +1149,6 @@
 			(type default)
 		)
 		(uuid "82249394-b3a6-40ec-b9a1-a95c082358da")
-	)
-	(wire
-		(pts
-			(xy 132.08 110.49) (xy 134.62 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90c470a5-447b-499c-ab04-2af01ce29e32")
 	)
 	(wire
 		(pts
@@ -1203,6 +1169,16 @@
 			(type default)
 		)
 		(uuid "973bb619-d139-4d14-880a-b13c404b01d4")
+	)
+	(wire
+		(pts
+			(xy 160.02 95.25) (xy 162.56 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99582cc7-d481-44c6-89d0-5046534efd87")
 	)
 	(wire
 		(pts
@@ -1236,16 +1212,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 87.63) (xy 132.08 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a90901a7-5192-46b4-b1d8-ed2b8101830a")
-	)
-	(wire
-		(pts
 			(xy 40.64 54.61) (xy 38.1 54.61)
 		)
 		(stroke
@@ -1256,13 +1222,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 110.49) (xy 162.56 110.49)
+			(xy 132.08 102.87) (xy 132.08 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b3c5e1ca-b363-4f09-b00f-8d22e5ca4964")
+		(uuid "b36876db-e47d-462b-86f2-4f9ea156d453")
 	)
 	(wire
 		(pts
@@ -1273,16 +1239,6 @@
 			(type default)
 		)
 		(uuid "b4dd67a2-e834-48fd-9aed-b5f8b74e5f7a")
-	)
-	(wire
-		(pts
-			(xy 132.08 102.87) (xy 132.08 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5d4061a-eff0-4620-919f-b03ab5779d35")
 	)
 	(wire
 		(pts
@@ -1326,6 +1282,36 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 80.01) (xy 162.56 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6276ccb-6aba-41e7-998f-1b3f7a95d160")
+	)
+	(wire
+		(pts
+			(xy 162.56 87.63) (xy 132.08 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8575836-9ff9-4672-ac07-66f26b00654c")
+	)
+	(wire
+		(pts
+			(xy 162.56 95.25) (xy 162.56 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd06e7f7-70d9-4ffe-bc53-3befbda109a6")
+	)
+	(wire
+		(pts
 			(xy 60.96 54.61) (xy 40.64 54.61)
 		)
 		(stroke
@@ -1333,6 +1319,16 @@
 			(type default)
 		)
 		(uuid "ce88b550-077f-4e40-8286-500c35988e81")
+	)
+	(wire
+		(pts
+			(xy 132.08 87.63) (xy 132.08 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cea67648-4f01-4eff-81a5-aa517e8c30b1")
 	)
 	(wire
 		(pts
@@ -1366,23 +1362,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 80.01) (xy 162.56 80.01)
+			(xy 162.56 80.01) (xy 162.56 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e7c5d225-052e-4fa2-855e-b7054b927783")
-	)
-	(wire
-		(pts
-			(xy 132.08 95.25) (xy 134.62 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8178174-f201-43f7-9af0-bd7d9c49769e")
+		(uuid "f4e3e69c-2bfa-4a19-abc7-3f12ce2017cf")
 	)
 	(wire
 		(pts
@@ -1635,7 +1621,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 91.186 90.424 90)
 			(effects
 				(font
@@ -1705,7 +1691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 22.606 90.424 90)
 			(effects
 				(font
@@ -1775,7 +1761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 45.466 90.424 90)
 			(effects
 				(font
@@ -1934,7 +1920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 21.59 83.82 0)
 			(effects
 				(font
@@ -2067,7 +2053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 68.326 90.424 90)
 			(effects
 				(font
@@ -2137,7 +2123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 90.17 83.82 0)
 			(effects
 				(font
@@ -2204,7 +2190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 44.45 83.82 0)
 			(effects
 				(font
@@ -2271,7 +2257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 67.31 83.82 0)
 			(effects
 				(font
@@ -2507,122 +2493,6 @@
 		)
 	)
 	(sheet
-		(at 134.62 107.95)
-		(size 25.4 5.08)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "2be86baa-6527-4136-835b-87efea8e1045")
-		(property "Sheetname" "7-Segment Display 4"
-			(at 134.62 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "UserDisplayModule-7SegDisp.kicad_sch"
-			(at 134.62 113.6146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "DATA_OUT" output
-			(at 160.02 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "92e363e6-b071-421e-a881-c2daae91ce18")
-		)
-		(pin "DATA_IN" input
-			(at 134.62 110.49 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "db533bd0-d8de-406a-a68e-3816d48bf2ae")
-		)
-		(instances
-			(project "UserDisplayModule"
-				(path "/352d7abe-fc72-4473-8b68-62eecf44f496"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 134.62 77.47)
-		(size 25.4 5.08)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "2fb7785c-e042-41db-91d9-3426bb7a61cc")
-		(property "Sheetname" "7-Segment Display 2"
-			(at 134.62 76.7584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "UserDisplayModule-7SegDisp.kicad_sch"
-			(at 134.62 83.1346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "DATA_OUT" output
-			(at 160.02 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "91b6c3b7-f5e6-4697-a88e-26e228f6ebad")
-		)
-		(pin "DATA_IN" input
-			(at 134.62 80.01 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "a37d9119-6556-4cea-baa3-7cbef9cd076b")
-		)
-		(instances
-			(project "UserDisplayModule"
-				(path "/352d7abe-fc72-4473-8b68-62eecf44f496"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 134.62 46.99)
 		(size 25.4 5.08)
 		(fields_autoplaced yes)
@@ -2749,7 +2619,7 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "8d3b2d6f-67ea-4b9a-8d6b-9a5f709e4906")
+		(uuid "9650799d-9072-4dba-8139-3ec1f2ecacfb")
 		(property "Sheetname" "7-Segment Display 3"
 			(at 134.62 91.9984 0)
 			(effects
@@ -2776,7 +2646,7 @@
 				)
 				(justify right)
 			)
-			(uuid "2316f454-11a1-4aba-abbe-8e7097830a2c")
+			(uuid "08e1b642-cfa5-4019-91a7-11177752cb50")
 		)
 		(pin "DATA_IN" input
 			(at 134.62 95.25 180)
@@ -2786,12 +2656,128 @@
 				)
 				(justify left)
 			)
-			(uuid "7d0a3597-7adf-4e11-a474-b636cb70d287")
+			(uuid "6e3e7257-36b0-43cf-ba8b-71c42ee06d0a")
 		)
 		(instances
 			(project "UserDisplayModule"
 				(path "/352d7abe-fc72-4473-8b68-62eecf44f496"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 107.95)
+		(size 25.4 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b2dcfe67-b35c-4587-a29d-880113cdb577")
+		(property "Sheetname" "7-Segment Display 4"
+			(at 134.62 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UserDisplayModule-7SegDisp.kicad_sch"
+			(at 134.62 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DATA_OUT" output
+			(at 160.02 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9658beae-3a89-4735-aada-4d4d359a59c7")
+		)
+		(pin "DATA_IN" input
+			(at 134.62 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ee42b967-cc0f-4e64-a170-d6f237b3943f")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 77.47)
+		(size 25.4 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d2d9e71a-442b-4090-b915-11a66e8f5c2a")
+		(property "Sheetname" "7-Segment Display 2"
+			(at 134.62 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UserDisplayModule-7SegDisp.kicad_sch"
+			(at 134.62 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DATA_OUT" output
+			(at 160.02 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d557943a-206e-4b83-8eed-5a445a9ecf00")
+		)
+		(pin "DATA_IN" input
+			(at 134.62 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0032c7d0-a0d8-4a3b-8c2a-841c2b931a29")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496"
+					(page "6")
 				)
 			)
 		)

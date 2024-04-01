@@ -310,4 +310,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "f2198809-aa84-4f69-8c6f-2fdb8d62b3fd")
 	)
+	(model "${SURGICAL_LIGHTING_LIBRARY_TEMPLATE_DIR}/Libraries/LM324N_NOPB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

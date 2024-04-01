@@ -1576,7 +1576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ImportedFootprints:LM324N"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 24.13 33.02 0)
 			(effects
 				(font
@@ -1682,7 +1682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Rotary"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_TT_P0915N"
 			(at 41.91 34.29 0)
 			(effects
 				(font
@@ -1872,7 +1872,7 @@
 		(dnp no)
 		(uuid "5da364e1-0631-4dbb-a97d-6da3c8878e42")
 		(property "Reference" "C2"
-			(at 30.988 34.29 0)
+			(at 30.988 36.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1880,8 +1880,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 30.988 36.83 0)
+		(property "Value" "100nF"
+			(at 30.988 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1957,7 +1957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ImportedFootprints:LM324N"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 101.6 36.83 0)
 			(effects
 				(font
@@ -2061,7 +2061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ImportedFootprints:LM324N"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 60.96 34.29 0)
 			(effects
 				(font

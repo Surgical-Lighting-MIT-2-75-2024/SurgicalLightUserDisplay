@@ -1677,7 +1677,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 222.25 73.66 0)
 			(effects
 				(font
@@ -1811,7 +1811,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 166.37 73.66 0)
 			(effects
 				(font
@@ -2081,7 +2081,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 180.34 73.66 0)
 			(effects
 				(font
@@ -2217,7 +2217,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100nF"
 			(at 97.028 71.12 0)
 			(effects
 				(font
@@ -2353,7 +2353,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 194.31 73.66 0)
 			(effects
 				(font
@@ -2598,7 +2598,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 208.28 73.66 0)
 			(effects
 				(font
@@ -2665,7 +2665,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 152.4 73.66 0)
 			(effects
 				(font
@@ -2799,7 +2799,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 236.22 73.66 0)
 			(effects
 				(font
@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "330"
 			(at 250.19 73.66 0)
 			(effects
 				(font

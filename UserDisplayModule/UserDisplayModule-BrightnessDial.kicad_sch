@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "4f4c34e1-b912-4243-88d9-bef570ab48ca")
 	(paper "A4")
+	(title_block
+		(date "2024-04-01")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM324"
 			(pin_names
@@ -1603,6 +1607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" "296-1391-5-ND"
+			(at 25.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "ed05fffe-2a75-44d4-a363-1c30ebb28d4f")
 		)
@@ -1701,6 +1714,15 @@
 			)
 		)
 		(property "Description" "Potentiometer, US symbol"
+			(at 41.91 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 41.91 34.29 0)
 			(effects
 				(font
@@ -1847,6 +1869,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 85.09 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61124e10-fc0b-4a1c-99e6-4ee66bd0ae67")
 		)
@@ -1916,6 +1947,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 27.94 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cfa164ac-9f27-429c-90b6-cf8243c3ffc5")
 		)
@@ -1976,6 +2016,15 @@
 			)
 		)
 		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "296-1391-5-ND"
 			(at 102.87 39.37 0)
 			(effects
 				(font
@@ -2080,6 +2129,15 @@
 			)
 		)
 		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "296-1391-5-ND"
 			(at 62.23 36.83 0)
 			(effects
 				(font
@@ -2193,6 +2251,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 48.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10b837c2-777e-498a-be80-1debed38a458")
 		)
@@ -2253,6 +2320,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 78.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 78.74 36.83 0)
 			(effects
 				(font

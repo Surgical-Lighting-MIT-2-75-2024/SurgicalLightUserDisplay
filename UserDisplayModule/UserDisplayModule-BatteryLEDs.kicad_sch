@@ -1609,7 +1609,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "YELLOW"
 			(at 223.2025 90.805 90)
 			(effects
 				(font
@@ -1637,6 +1637,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 217.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4987-1-ND"
 			(at 217.17 87.63 0)
 			(effects
 				(font
@@ -1712,6 +1721,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 217.17 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24fc7cc7-dbd2-43d9-a9cc-4c679ca123c1")
 		)
@@ -1744,7 +1762,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT7"
+		(property "Value" "GREEN"
 			(at 158.496 78.994 0)
 			(effects
 				(font
@@ -1771,6 +1789,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 161.29 80.01 0)
 			(effects
 				(font
@@ -1846,6 +1873,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 161.29 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8647dd0e-61c7-4df8-a897-ad7379015733")
 		)
@@ -1878,7 +1914,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "RED"
 			(at 251.1425 90.805 90)
 			(effects
 				(font
@@ -1906,6 +1942,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 245.11 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4984-1-ND"
 			(at 245.11 87.63 0)
 			(effects
 				(font
@@ -1946,7 +1991,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "GREEN"
 			(at 209.2325 90.805 90)
 			(effects
 				(font
@@ -1974,6 +2019,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 203.2 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 203.2 87.63 0)
 			(effects
 				(font
@@ -2014,7 +2068,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT5"
+		(property "Value" "GREEN"
 			(at 186.436 78.994 0)
 			(effects
 				(font
@@ -2041,6 +2095,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 189.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 189.23 80.01 0)
 			(effects
 				(font
@@ -2116,6 +2179,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 175.26 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "553b1e9f-11b0-4c85-8dd8-4b3372a312ea")
 		)
@@ -2148,7 +2220,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "YELLOW"
 			(at 237.1725 90.805 90)
 			(effects
 				(font
@@ -2176,6 +2248,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 231.14 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4987-1-ND"
 			(at 231.14 87.63 0)
 			(effects
 				(font
@@ -2253,6 +2334,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 93.98 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12f9cc8a-bd27-4bd9-aa60-36f6274aa796")
 		)
@@ -2285,7 +2375,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "GREEN"
 			(at 153.3525 90.805 90)
 			(effects
 				(font
@@ -2313,6 +2403,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 147.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 147.32 87.63 0)
 			(effects
 				(font
@@ -2388,6 +2487,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 189.23 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2393c0b-a7b2-4ae0-86b4-836153e95a9e")
 		)
@@ -2450,6 +2558,15 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "296-1600-5-ND"
 			(at 118.11 58.42 0)
 			(effects
 				(font
@@ -2633,6 +2750,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 203.2 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d8c89f67-f732-4540-bd30-2f789c3fdcb9")
 		)
@@ -2700,6 +2826,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 147.32 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c1ec274-3b2e-4987-a5da-e6def578ce87")
 		)
@@ -2732,7 +2867,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT3"
+		(property "Value" "YELLOW"
 			(at 214.376 78.994 0)
 			(effects
 				(font
@@ -2759,6 +2894,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 217.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4987-1-ND"
 			(at 217.17 80.01 0)
 			(effects
 				(font
@@ -2826,6 +2970,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 231.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 231.14 72.39 0)
 			(effects
 				(font
@@ -2932,7 +3085,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT4"
+		(property "Value" "GREEN"
 			(at 200.406 78.994 0)
 			(effects
 				(font
@@ -2959,6 +3112,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 203.2 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 203.2 80.01 0)
 			(effects
 				(font
@@ -2999,7 +3161,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "GREEN"
 			(at 181.2925 90.805 90)
 			(effects
 				(font
@@ -3027,6 +3189,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 175.26 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 175.26 87.63 0)
 			(effects
 				(font
@@ -3067,7 +3238,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "GREEN"
 			(at 195.2625 90.805 90)
 			(effects
 				(font
@@ -3095,6 +3266,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 189.23 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 189.23 87.63 0)
 			(effects
 				(font
@@ -3135,7 +3315,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT2"
+		(property "Value" "YELLOW"
 			(at 228.346 78.994 0)
 			(effects
 				(font
@@ -3162,6 +3342,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 231.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4987-1-ND"
 			(at 231.14 80.01 0)
 			(effects
 				(font
@@ -3202,7 +3391,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "GREEN"
 			(at 167.3225 90.805 90)
 			(effects
 				(font
@@ -3230,6 +3419,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 161.29 87.63 0)
 			(effects
 				(font
@@ -3270,7 +3468,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT1"
+		(property "Value" "RED"
 			(at 242.316 78.994 0)
 			(effects
 				(font
@@ -3297,6 +3495,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 245.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4984-1-ND"
 			(at 245.11 80.01 0)
 			(effects
 				(font
@@ -3372,6 +3579,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 245.11 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ece5e2d8-b303-4f80-84aa-91f58cc0b82a")
 		)
@@ -3404,7 +3620,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT6"
+		(property "Value" "GREEN"
 			(at 172.466 78.994 0)
 			(effects
 				(font
@@ -3431,6 +3647,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 175.26 80.01 0)
 			(effects
 				(font
@@ -3471,7 +3696,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT8"
+		(property "Value" "GREEN"
 			(at 144.526 78.994 0)
 			(effects
 				(font
@@ -3498,6 +3723,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 147.32 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "732-4983-1-ND"
 			(at 147.32 80.01 0)
 			(effects
 				(font

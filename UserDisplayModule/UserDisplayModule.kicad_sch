@@ -6,7 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Main")
-		(date "2024-03-22")
+		(date "2024-04-01")
+		(rev "1")
 	)
 	(lib_symbols
 		(symbol "Connector:RJ45_Shielded"
@@ -1648,6 +1649,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 90.17 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "607d0cb7-add1-4f1d-a526-40b18be7c8b9")
 		)
@@ -1710,6 +1720,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 21.59 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 21.59 90.17 0)
 			(effects
 				(font
@@ -1788,6 +1807,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 44.45 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0cdf183-e975-4305-b085-f81b82d5523f")
 		)
@@ -1848,6 +1876,15 @@
 			)
 		)
 		(property "Description" "RJ connector, 8P8C (8 positions 8 connected), Shielded"
+			(at 27.94 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "AE10399-ND"
 			(at 27.94 46.99 0)
 			(effects
 				(font
@@ -1939,6 +1976,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 21.59 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 21.59 83.82 0)
 			(effects
 				(font
@@ -2080,6 +2126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 67.31 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1cdd7010-7df9-4694-b07a-0d3372fd07ea")
 		)
@@ -2142,6 +2197,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 90.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" ""
 			(at 90.17 83.82 0)
 			(effects
 				(font
@@ -2217,6 +2281,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 44.45 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea8543f4-a9ab-4a81-98a3-f67855764848")
 		)
@@ -2284,6 +2357,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey PN" ""
+			(at 67.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b622be2f-8871-4509-9909-48aea30400ef")
 		)
@@ -2332,7 +2414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF"
+		(property "Datasheet" "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM7800_E.pdf"
 			(at 60.96 38.1 0)
 			(effects
 				(font
@@ -2342,6 +2424,15 @@
 			)
 		)
 		(property "Description" "Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey PN" "2129-NJM7805FA-ND"
 			(at 60.96 36.83 0)
 			(effects
 				(font

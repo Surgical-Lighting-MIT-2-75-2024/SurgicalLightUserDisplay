@@ -992,6 +992,12 @@
 		(uuid "2a416d5e-bc75-4457-ae95-064c615d1e53")
 	)
 	(junction
+		(at 19.05 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3786110c-853f-48bb-b8e9-7c61ce2052f6")
+	)
+	(junction
 		(at 71.12 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1008,6 +1014,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75ca46bf-1642-4716-8118-79d9f2267853")
+	)
+	(junction
+		(at 46.99 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85ac9317-ed78-4e91-a719-a07587e98d3d")
 	)
 	(junction
 		(at 27.94 27.94)
@@ -1033,6 +1045,66 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 71.12) (xy 38.1 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f610e7-6b5d-475e-85d4-d84903767ec4")
+	)
+	(wire
+		(pts
+			(xy 72.39 77.47) (xy 90.17 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0254be1b-29ff-46cf-bbe3-2751367627d4")
+	)
+	(wire
+		(pts
+			(xy 64.77 71.12) (xy 63.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b66b8cd-cd25-4e44-8a20-816f99941548")
+	)
+	(wire
+		(pts
+			(xy 90.17 77.47) (xy 90.17 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12118452-190e-45a7-8bc0-ec56796dd49a")
+	)
+	(wire
+		(pts
+			(xy 46.99 77.47) (xy 64.77 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15650440-d031-4a51-9ef7-62a7e8bdc962")
+	)
+	(wire
+		(pts
+			(xy 64.77 77.47) (xy 64.77 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2174f198-f275-4b01-b7a7-c77175c0f90f")
+	)
+	(wire
+		(pts
 			(xy 45.72 34.29) (xy 48.26 34.29)
 		)
 		(stroke
@@ -1040,6 +1112,16 @@
 			(type default)
 		)
 		(uuid "25cc35b8-7875-4b76-a16f-4fae77230a2e")
+	)
+	(wire
+		(pts
+			(xy 19.05 68.58) (xy 19.05 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f9b10d3-9b63-4405-943e-02df4de26f2b")
 	)
 	(wire
 		(pts
@@ -1083,6 +1165,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 73.66) (xy 72.39 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "520c40d9-8f5c-4982-98d5-727711b87efc")
+	)
+	(wire
+		(pts
 			(xy 52.07 44.45) (xy 71.12 44.45)
 		)
 		(stroke
@@ -1090,6 +1182,16 @@
 			(type default)
 		)
 		(uuid "5432b4c4-7340-4f9e-b551-6f6cfcebfd98")
+	)
+	(wire
+		(pts
+			(xy 21.59 73.66) (xy 21.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59096d31-8ae2-44cd-9359-ef52f72947e0")
 	)
 	(wire
 		(pts
@@ -1103,6 +1205,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 68.58) (xy 19.05 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d142f51-b4c2-456e-8445-86b2f4e45390")
+	)
+	(wire
+		(pts
 			(xy 48.26 34.29) (xy 54.61 34.29)
 		)
 		(stroke
@@ -1110,6 +1222,36 @@
 			(type default)
 		)
 		(uuid "5e81e071-bad6-4436-8cc1-6259ddbf9309")
+	)
+	(wire
+		(pts
+			(xy 48.26 73.66) (xy 46.99 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68d6ea6d-2e54-4808-995e-0874ff733f2e")
+	)
+	(wire
+		(pts
+			(xy 72.39 68.58) (xy 73.66 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ab57c3a-0bb8-4fc0-87a5-b1d8d20040a1")
+	)
+	(wire
+		(pts
+			(xy 73.66 73.66) (xy 72.39 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "721510b2-6dc5-424d-afd2-4c102430ee68")
 	)
 	(wire
 		(pts
@@ -1123,6 +1265,36 @@
 	)
 	(wire
 		(pts
+			(xy 19.05 64.77) (xy 46.99 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84730816-bff2-45b4-847b-f2504676bdc7")
+	)
+	(wire
+		(pts
+			(xy 46.99 68.58) (xy 46.99 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85dad719-e60d-4548-b9c4-20fb6b5a33fc")
+	)
+	(wire
+		(pts
+			(xy 46.99 73.66) (xy 46.99 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88758660-8365-4ffe-a576-3801a2afc3d9")
+	)
+	(wire
+		(pts
 			(xy 27.94 27.94) (xy 41.91 27.94)
 		)
 		(stroke
@@ -1133,6 +1305,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 71.12) (xy 88.9 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99907871-1828-4cb9-9514-9e9fec2ae8b5")
+	)
+	(wire
+		(pts
 			(xy 41.91 25.4) (xy 41.91 27.94)
 		)
 		(stroke
@@ -1140,6 +1322,26 @@
 			(type default)
 		)
 		(uuid "9b616767-daa4-4984-952f-0c432b1462ab")
+	)
+	(wire
+		(pts
+			(xy 72.39 64.77) (xy 72.39 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f035b0f-8ce9-4e2b-8a2b-c233dc8c49c6")
+	)
+	(wire
+		(pts
+			(xy 39.37 77.47) (xy 39.37 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a21aaa18-1aa4-466c-8992-184cad3dccd7")
 	)
 	(wire
 		(pts
@@ -1193,6 +1395,26 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 64.77) (xy 72.39 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c040bc14-5b8f-4583-850e-fcbd4c0a4076")
+	)
+	(wire
+		(pts
+			(xy 22.86 73.66) (xy 21.59 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8ac402d-c61a-4d7a-af18-cf85406d3150")
+	)
+	(wire
+		(pts
 			(xy 52.07 39.37) (xy 52.07 44.45)
 		)
 		(stroke
@@ -1203,6 +1425,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 68.58) (xy 46.99 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7824294-7f73-4881-9259-31372006c0ae")
+	)
+	(wire
+		(pts
 			(xy 54.61 39.37) (xy 52.07 39.37)
 		)
 		(stroke
@@ -1210,6 +1442,16 @@
 			(type default)
 		)
 		(uuid "ed425aaa-2e66-4411-8d54-af83f9c2f240")
+	)
+	(wire
+		(pts
+			(xy 21.59 77.47) (xy 39.37 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f70bc8f1-f6fd-4abb-afb5-a0ed0f17dac1")
 	)
 	(wire
 		(pts
@@ -1447,6 +1689,110 @@
 				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
 					(reference "RV1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:LM324")
+		(at 55.88 71.12 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22048e12-0289-47af-bb49-6619766ff6eb")
+		(property "Reference" "U2"
+			(at 55.88 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM324"
+			(at 55.88 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+			(at 54.61 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"
+			(at 57.15 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 55.88 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "ca330617-b3bb-4812-8234-f81e7d7d081d")
+		)
+		(pin "2"
+			(uuid "5f0ba9ab-b7ae-4bf4-93c1-08ac2ed91dd0")
+		)
+		(pin "7"
+			(uuid "7fc06188-71e6-4ec7-9796-24592153bb9f")
+		)
+		(pin "5"
+			(uuid "23e6fc3f-5d1e-4779-bb47-5104a8754d08")
+		)
+		(pin "9"
+			(uuid "81264aae-9a5a-4f7b-a51b-130270ba6354")
+		)
+		(pin "13"
+			(uuid "e13deb51-96a5-4471-b811-ff7b8e8bfc4a")
+		)
+		(pin "3"
+			(uuid "9ae3fca8-3613-4a7f-8141-bd9c6d6678b4")
+		)
+		(pin "12"
+			(uuid "efc448fa-af83-4ea8-a582-3adb57fc0558")
+		)
+		(pin "8"
+			(uuid "811f3a22-17a9-42cd-88d1-77eb66a8a49a")
+		)
+		(pin "6"
+			(uuid "898e5031-2171-4e16-acf8-45b7a37bd037")
+		)
+		(pin "14"
+			(uuid "e1d3dc5e-eb92-4721-9d23-c19e3bbb7bd0")
+		)
+		(pin "10"
+			(uuid "a22ae6d9-85ae-4e1c-8ea4-2a540001b3ac")
+		)
+		(pin "11"
+			(uuid "33f86b1d-e152-471f-b35f-50917c8b5cd3")
+		)
+		(pin "1"
+			(uuid "ce7b2587-cc4b-42f8-a2a0-6f01b880a61c")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
+					(reference "U2")
+					(unit 3)
 				)
 			)
 		)
@@ -1709,6 +2055,175 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 19.05 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7dd04da1-5f4a-4dc1-bc41-2cc099b95462")
+		(property "Reference" "#PWR016"
+			(at 19.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 19.05 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 19.05 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "101419b8-f446-41b5-9568-ce530ffe24a9")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:LM324")
+		(at 30.48 71.12 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0161d40-5e97-4d25-beca-b0af862e4af9")
+		(property "Reference" "U2"
+			(at 30.48 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM324"
+			(at 30.48 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+			(at 29.21 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"
+			(at 31.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 30.48 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "ca330617-b3bb-4812-8234-f81e7d7d081d")
+		)
+		(pin "2"
+			(uuid "5f0ba9ab-b7ae-4bf4-93c1-08ac2ed91dd0")
+		)
+		(pin "7"
+			(uuid "7fc06188-71e6-4ec7-9796-24592153bb9f")
+		)
+		(pin "5"
+			(uuid "23e6fc3f-5d1e-4779-bb47-5104a8754d08")
+		)
+		(pin "9"
+			(uuid "81264aae-9a5a-4f7b-a51b-130270ba6354")
+		)
+		(pin "13"
+			(uuid "e13deb51-96a5-4471-b811-ff7b8e8bfc4a")
+		)
+		(pin "3"
+			(uuid "9ae3fca8-3613-4a7f-8141-bd9c6d6678b4")
+		)
+		(pin "12"
+			(uuid "efc448fa-af83-4ea8-a582-3adb57fc0558")
+		)
+		(pin "8"
+			(uuid "811f3a22-17a9-42cd-88d1-77eb66a8a49a")
+		)
+		(pin "6"
+			(uuid "898e5031-2171-4e16-acf8-45b7a37bd037")
+		)
+		(pin "14"
+			(uuid "e1d3dc5e-eb92-4721-9d23-c19e3bbb7bd0")
+		)
+		(pin "10"
+			(uuid "a22ae6d9-85ae-4e1c-8ea4-2a540001b3ac")
+		)
+		(pin "11"
+			(uuid "33f86b1d-e152-471f-b35f-50917c8b5cd3")
+		)
+		(pin "1"
+			(uuid "ce7b2587-cc4b-42f8-a2a0-6f01b880a61c")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
+					(reference "U2")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:PTVS5V0Z1USK")
 		(at 48.26 39.37 270)
 		(unit 1)
@@ -1782,6 +2297,110 @@
 				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
 					(reference "D41")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:LM324")
+		(at 81.28 71.12 0)
+		(unit 4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3281c46-91b9-48ee-b309-69e3706ac8f9")
+		(property "Reference" "U2"
+			(at 81.28 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM324"
+			(at 81.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+			(at 80.01 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf"
+			(at 82.55 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"
+			(at 81.28 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "ca330617-b3bb-4812-8234-f81e7d7d081d")
+		)
+		(pin "2"
+			(uuid "5f0ba9ab-b7ae-4bf4-93c1-08ac2ed91dd0")
+		)
+		(pin "7"
+			(uuid "7fc06188-71e6-4ec7-9796-24592153bb9f")
+		)
+		(pin "5"
+			(uuid "23e6fc3f-5d1e-4779-bb47-5104a8754d08")
+		)
+		(pin "9"
+			(uuid "81264aae-9a5a-4f7b-a51b-130270ba6354")
+		)
+		(pin "13"
+			(uuid "e13deb51-96a5-4471-b811-ff7b8e8bfc4a")
+		)
+		(pin "3"
+			(uuid "9ae3fca8-3613-4a7f-8141-bd9c6d6678b4")
+		)
+		(pin "12"
+			(uuid "efc448fa-af83-4ea8-a582-3adb57fc0558")
+		)
+		(pin "8"
+			(uuid "811f3a22-17a9-42cd-88d1-77eb66a8a49a")
+		)
+		(pin "6"
+			(uuid "898e5031-2171-4e16-acf8-45b7a37bd037")
+		)
+		(pin "14"
+			(uuid "e1d3dc5e-eb92-4721-9d23-c19e3bbb7bd0")
+		)
+		(pin "10"
+			(uuid "a22ae6d9-85ae-4e1c-8ea4-2a540001b3ac")
+		)
+		(pin "11"
+			(uuid "33f86b1d-e152-471f-b35f-50917c8b5cd3")
+		)
+		(pin "1"
+			(uuid "ce7b2587-cc4b-42f8-a2a0-6f01b880a61c")
+		)
+		(instances
+			(project "UserDisplayModule"
+				(path "/352d7abe-fc72-4473-8b68-62eecf44f496/ed6b1e35-5147-4efc-b415-ad1fa40d2595"
+					(reference "U2")
+					(unit 4)
 				)
 			)
 		)
